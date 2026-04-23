@@ -43,14 +43,14 @@ It suggests movies based on similarity by analyzing metadata like genres, keywor
 Due to GitHub size limitations, the dataset is not included in this repository.
 
 👉 Download dataset from:
-**[Add your CSV link here]**
+**[(https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)]**
 
 
 ---
 
 ## 👨‍💻 Author
 
-** Bhairav Thakare **
+**Bhairav Thakare**
 
 ---
 
