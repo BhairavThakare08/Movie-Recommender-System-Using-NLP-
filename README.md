@@ -52,8 +52,4 @@ Due to GitHub size limitations, the dataset is not included in this repository.
 
 **Bhairav Thakare**
 
----
 
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and support!
